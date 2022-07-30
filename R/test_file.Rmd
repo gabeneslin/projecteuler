@@ -2,7 +2,7 @@
 title: "Hello World Test File"
 author: "Gabe Neslin"
 date: "2022-07-30"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
