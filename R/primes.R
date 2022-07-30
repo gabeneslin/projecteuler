@@ -1,7 +1,10 @@
 #' A function to find all prime numbers below a given number n
 #'
 #' @param n A number.
+#'
 #' @return All of the prime numbers below \code{n}.
+#' @export
+#'
 #' @examples
 #' primes_below(10)
 primes_below <- function(n) {
