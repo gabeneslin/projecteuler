@@ -1,12 +1,10 @@
 Package: projecteuler
-Title: What the Package Does (One Line, Title Case)
+Title: Helpful functions for working on Project Euler problems
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Gabriel", "Neslin", , "gabeneslin@gmail.com", role = c("aut", "cre"))
+Description: This is a series of function that I originally wrote from the ground up for working on Project Euler problems. Examples include function to generate prime numbers or Fibonacci numbers.
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
