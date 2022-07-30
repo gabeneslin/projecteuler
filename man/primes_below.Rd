@@ -7,7 +7,7 @@
 primes_below(n)
 }
 \arguments{
-\item{n}{A number.}
+\item{n}{A number (preferably an integer).}
 }
 \value{
 All of the prime numbers below \code{n}.

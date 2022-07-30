@@ -8,7 +8,6 @@
 #' @examples
 #' primes_below(10)
 primes_below <- function(n) {
-
   stopifnot(is.numeric(n))
   # Create a vector with all possible numbers from 2 to n
   possibles <-  2:n
