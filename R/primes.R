@@ -1,12 +1,9 @@
-# primes_below ------------------------------------------------------------
 #' A function to find all prime numbers below a given number n
 #'
 #' @param n A number.
 #' @return All of the prime numbers below \code{n}.
 #' @examples
 #' primes_below(10)
-
-
 primes_below <- function(n) {
   # Create a vector with all possible numbers from 2 to n
   possibles <-  2:n
