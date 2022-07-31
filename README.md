@@ -6,8 +6,9 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of projecteuler was to help me learn to code in R by writing
-functions from the ground up to solve Project Euler problems.
+The goal of projecteuler was to help me learn to code in R (back in
+2016) by writing functions from the ground up to solve Project Euler
+problems. I have since revised some of the functions.
 
 ## Installation
 
