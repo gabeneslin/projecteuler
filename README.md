@@ -8,7 +8,8 @@
 
 The goal of projecteuler was to help me learn to code in R (back in
 2016) by writing functions from the ground up to solve Project Euler
-problems. I have since revised some of the functions.
+problems. I have since revised some of the functions and combined them
+together into a package for my personal use.
 
 ## Installation
 
