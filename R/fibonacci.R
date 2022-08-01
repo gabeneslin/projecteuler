@@ -10,12 +10,12 @@
 fibonacci <- function(n) {
   stopifnot(is.numeric(n), length(n) == 1, n >= 1)
   # Create a vector with all possible numbers from 2 to n
-  a <-  0
+  a <- 0
   b <- 1
-  for(i in 1:n){
+  for (i in 1:n) {
     t <- b
     b <- a
-    a <- a + 1
+    a <- a + t
   }
   return(a)
 }

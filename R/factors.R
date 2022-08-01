@@ -13,11 +13,11 @@ prime_factors <- function(n) {
   s <- vector()
   k <- 2L
 
-  while (n >= 1) {
-    if(n %% k == 0){
+  while (n > 1) {
+    if (n %% k == 0) {
       n <-  n / k
       s <- c(s, k)
-    } else{
+    } else {
       k <- k + 1
     }
   }
