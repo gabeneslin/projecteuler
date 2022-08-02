@@ -2,7 +2,7 @@
 #' n and k using Euclid's algorithm
 #'
 #' @param n The first number (preferably an integer).
-#' @param n The second number (preferably an integer).
+#' @param k The second number (preferably an integer).
 #'
 #' @return The greatest common divisor of \code{n} and \code{k}.
 #' @export
